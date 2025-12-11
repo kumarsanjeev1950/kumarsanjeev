@@ -39,7 +39,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 18px;
-  border-radius: 55px;
+  border-radius: 45px;
   backdrop-filter: blur(8px);
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.09);
@@ -254,5 +254,6 @@ footer {
   color: #4a8cff;
   transform: translateY(-6px) scale(1.1);
 }
+
 
 
