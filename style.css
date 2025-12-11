@@ -1,10 +1,10 @@
 /* ---------------- ROOT COLORS ---------------- */
 :root {
-  --bg: linear-gradient(135deg, rgb(38, 83, 151), rgb(219, 40, 204));
-  --glass: rgba(255, 255, 255, 0.06);
-  --accent: rgba(255, 255, 255, 0.9);
-  --muted: rgba(255, 255, 255, 0.6);
-}
+        --bg: linear-gradient(135deg, rgba(10, 25, 47, 1), rgba(20, 40, 70, 1));
+        --glass: rgba(255, 255, 255, 0.06);
+        --accent: rgba(255, 255, 255, 0.9);
+        --muted: rgba(255, 255, 255, 0.6);
+      }
 
 * {
   box-sizing: border-box;
@@ -255,6 +255,7 @@ footer {
   color: #4a8cff;
   transform: translateY(-6px) scale(1.1);
 }
+
 
 
 
