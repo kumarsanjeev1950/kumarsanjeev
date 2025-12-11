@@ -39,7 +39,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 18px;
-  border-radius: 2px;
+  border-radius: 25px;
   backdrop-filter: blur(8px);
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.09);
@@ -149,6 +149,7 @@ nav a:hover {
   padding: 8px 12px;
   border-radius: 10px;
   background: transparent;
+  border:1px solid;
   border-color: white;
   color: white;
   text-decoration: none;
@@ -164,7 +165,7 @@ nav a:hover {
 #contact,
 footer {
   padding: 18px;
-  border-radius: 45px;
+  border-radius: 55px;
   background: rgba(255, 255, 255, 0.03);
   border: 1px solid rgba(255, 255, 255, 0.05);
   margin-top: 30px;
@@ -233,7 +234,7 @@ footer {
 
 .home-section {
   padding: 18px;
-  border-radius: 35px;
+  border-radius: 55px;
   background: rgba(255, 255, 255, 0.03);
   border: 1px solid rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(8px);
@@ -254,6 +255,7 @@ footer {
   color: #4a8cff;
   transform: translateY(-6px) scale(1.1);
 }
+
 
 
 
